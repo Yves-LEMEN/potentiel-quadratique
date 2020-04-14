@@ -1,3 +1,4 @@
 # potentiel-quadratique
 calcul du mouvement d'un point dans un potentiel quadratique
-2° essai
+revision 2
+Correction de plusieurs erreurs
